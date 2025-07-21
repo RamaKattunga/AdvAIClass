@@ -14,7 +14,7 @@ Hotel cancellations significantly impact revenue and resource planning. By predi
 - **Enhance customer service strategies**
 
 ##  **Dataset Information**
-
+Download: hotel_bookings.csv, hotel_data_dictionary.txt, Hilton_hotel_booking_prediction.ipynb
 ### **Source Data**
 - **Dataset**: `hotel_bookings.csv`
 - **Records**: 119,390 hotel bookings
